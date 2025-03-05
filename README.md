@@ -1,2 +1,4 @@
 # LIbrary-Management-System
-This porgram will help you to store , add,remove,borrow etc your book and store the given one as json file.
+This project is a simple Library Management System built using Python and JSON for data storage. It allows users to add, view, borrow, and return books while maintaining a record of book availability.
+
+
